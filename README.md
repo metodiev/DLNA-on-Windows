@@ -32,9 +32,14 @@ features.
 
 To make your files available to DLNA clients:
 
-1. Open **Windows Media Player** or the Windows media library settings.
-2. Add the folders that contain your music, videos, or pictures.
-3. Wait for Windows to index the files.
+1. Open **Windows Media Player Legacy** from the Start menu.
+2. Press **Alt** if the menu bar is hidden.
+3. Select **Organize** -> **Manage libraries**.
+4. Choose **Music**, **Videos**, or **Pictures**.
+5. Click **Add** and select the folder that contains the media you want to
+   share.
+6. Click **Include folder**, then **OK**.
+7. Wait for Windows Media Player to index the new files.
 
 After that, compatible devices on the same network should be able to discover
 your Windows PC and browse the shared media.
